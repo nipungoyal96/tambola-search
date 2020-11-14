@@ -31,10 +31,10 @@ function App() {
   const [earlysList, setEarlysList ] = useState();
   const [linesList, setLinesList ] = useState();
   const [housesList, setHousesList ] = useState();
-  axios.get('http://localhost:3001/tickets').then((res) => tickets.push(res.data));
+  axios.get('https://my-json-server.typicode.com/nipungoyal96/tambola-search/tickets').then((res) => tickets.push(res.data));
   console.log(tickets);
   const selNums = [];
-  axios.get('http://localhost:3001/selectedNums').then((res) => selNums.push(res.data));
+  axios.get('https://my-json-server.typicode.com/nipungoyal96/tambola-search/selectedNums').then((res) => selNums.push(res.data));
   const setNum = (setNo,event) => {
     setNo(event.target.value)
   }
