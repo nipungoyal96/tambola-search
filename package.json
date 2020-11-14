@@ -2,7 +2,7 @@
   "name": "tambola-search",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/nipungoyal96/tambola-search",
+  "homepage": "https://nipungoyal96.github.com/nipungoyal96/tambola-search",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.1.2",
