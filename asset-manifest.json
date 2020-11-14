@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/nipungoyal96/tambola-search/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/nipungoyal96/tambola-search/static/js/main.f5b0dae8.chunk.js",
-    "main.js.map": "/nipungoyal96/tambola-search/static/js/main.f5b0dae8.chunk.js.map",
-    "runtime-main.js": "/nipungoyal96/tambola-search/static/js/runtime-main.e1fce399.js",
-    "runtime-main.js.map": "/nipungoyal96/tambola-search/static/js/runtime-main.e1fce399.js.map",
-    "static/js/2.c66d5014.chunk.js": "/nipungoyal96/tambola-search/static/js/2.c66d5014.chunk.js",
-    "static/js/2.c66d5014.chunk.js.map": "/nipungoyal96/tambola-search/static/js/2.c66d5014.chunk.js.map",
-    "static/js/3.6c2453e4.chunk.js": "/nipungoyal96/tambola-search/static/js/3.6c2453e4.chunk.js",
-    "static/js/3.6c2453e4.chunk.js.map": "/nipungoyal96/tambola-search/static/js/3.6c2453e4.chunk.js.map",
-    "index.html": "/nipungoyal96/tambola-search/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/nipungoyal96/tambola-search/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.c66d5014.chunk.js.LICENSE.txt": "/nipungoyal96/tambola-search/static/js/2.c66d5014.chunk.js.LICENSE.txt"
+    "main.css": "/tambola-search/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/tambola-search/static/js/main.f5b0dae8.chunk.js",
+    "main.js.map": "/tambola-search/static/js/main.f5b0dae8.chunk.js.map",
+    "runtime-main.js": "/tambola-search/static/js/runtime-main.b114473b.js",
+    "runtime-main.js.map": "/tambola-search/static/js/runtime-main.b114473b.js.map",
+    "static/js/2.c66d5014.chunk.js": "/tambola-search/static/js/2.c66d5014.chunk.js",
+    "static/js/2.c66d5014.chunk.js.map": "/tambola-search/static/js/2.c66d5014.chunk.js.map",
+    "static/js/3.6c2453e4.chunk.js": "/tambola-search/static/js/3.6c2453e4.chunk.js",
+    "static/js/3.6c2453e4.chunk.js.map": "/tambola-search/static/js/3.6c2453e4.chunk.js.map",
+    "index.html": "/tambola-search/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/tambola-search/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.c66d5014.chunk.js.LICENSE.txt": "/tambola-search/static/js/2.c66d5014.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e1fce399.js",
+    "static/js/runtime-main.b114473b.js",
     "static/js/2.c66d5014.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.f5b0dae8.chunk.js"
