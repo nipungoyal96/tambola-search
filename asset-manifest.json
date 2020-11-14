@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/nipungoyal96/tambola-search/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/nipungoyal96/tambola-search/static/js/main.2736aeb5.chunk.js",
-    "main.js.map": "/nipungoyal96/tambola-search/static/js/main.2736aeb5.chunk.js.map",
+    "main.js": "/nipungoyal96/tambola-search/static/js/main.f5b0dae8.chunk.js",
+    "main.js.map": "/nipungoyal96/tambola-search/static/js/main.f5b0dae8.chunk.js.map",
     "runtime-main.js": "/nipungoyal96/tambola-search/static/js/runtime-main.e1fce399.js",
     "runtime-main.js.map": "/nipungoyal96/tambola-search/static/js/runtime-main.e1fce399.js.map",
     "static/js/2.c66d5014.chunk.js": "/nipungoyal96/tambola-search/static/js/2.c66d5014.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.e1fce399.js",
     "static/js/2.c66d5014.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.2736aeb5.chunk.js"
+    "static/js/main.f5b0dae8.chunk.js"
   ]
 }
